@@ -1,0 +1,22 @@
+.container10 { 
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.column1, .column2, .column3, .column4, .column5, .column6, .column7, .column8, .column9, .column10{
+    display:inline-block;
+} 
+.container10 .column1 {width:10%;}
+.container10 .column2 {width:20%;}
+.container10 .column3 {width:30%;}
+.container10 .column4 {width:40%;}
+.container10 .column5 {width:50%;}
+.container10 .column6 {width:60%;}
+.container10 .column7 {width:70%;}
+.container10 .column8 {width:80%;}
+.container10 .column9 {width:90%;}
+.container10 .column10{width:100%;}
+

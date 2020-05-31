@@ -1,0 +1,54 @@
+#header img{float : right;}
+
+
+header {
+    height:20%;
+    padding: 15px 0; 
+    background-color: lightblue;  
+}
+#email{
+    margin: 0 2% 2% 16%;
+}
+
+h1{
+    margin:8%;
+    color: lightblue;
+    text-align: center;
+    font-family: Helvetica;
+    float: right;
+}
+
+.box, .button{
+    margin: 5% 5% 22% 4%;
+    padding: 13px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    border: 1px solid rgb(187, 190, 190);
+    width: 90%;
+}
+
+.button{
+    background-color: rgb(18, 162, 214);
+    border: none;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    width: 30%;
+}
+
+#things{
+    margin: 2% 0 2% 10% ;
+    float: left;
+    background-color: rgb(141, 207, 230);
+    border-radius: 8px;
+}
+
+#things img{
+    height: 270;
+    width: 270;
+}
+
+p{
+    text-align: center;
+    font-family: Helvetica;
+    color: rgb(255, 255, 255);
+}

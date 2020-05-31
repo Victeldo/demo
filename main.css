@@ -1,0 +1,35 @@
+#header img{float : right;}
+
+
+header {
+    height:20%;
+    padding: 15px 0; 
+    background-color: lightblue;  
+}
+
+.things{
+    margin: 2% 10% 2% 3% ;
+    float: right;
+    background-color: rgb(141, 207, 230);
+    border-radius: 8px;
+}
+
+.things img{
+    height: 250;
+    width: 250;
+}
+
+p{
+    text-align: center;
+    font-family: Helvetica;
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: lightblue;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+a{
+    text-decoration: none;
+}
